@@ -14,7 +14,7 @@ python word_count.py <file>
 python word_count.py notes.txt
 ```
 
-The script will recieve the file, split it into words, and print the 10
+The script will receive the file, split it into words, and print the 10
 most frequent ones along with their counts.
 
 ## Tests
